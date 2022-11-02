@@ -4,7 +4,7 @@
 - Goal tracking app: track books read, meditations, gratitude journals and daily goals
 - Nvim testing app: run unit tests on save and display annotations next to tests
 - Testing blog: with Go present slides and blogs
-- [Stow](https://www.gnu.org/software/stow/) config: i3, nvim, tmux
+- [Stow](https://www.gnu.org/software/stow/) config: i3, nvim, tmux, mons
   - Or nixos setup
 - 5Ys reporting system: analyse why things do an don't work.
 - Slack in neovim
